@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a9e8709-f2a8-4c42-af75-9e83549d4ac5</testCaseGuid>
+   <variable>
+      <defaultValue>'Testing'</defaultValue>
+      <description></description>
+      <id>aeac7735-ce91-47ff-b7ea-2f7c092f7355</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
